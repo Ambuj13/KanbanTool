@@ -25,9 +25,7 @@ public class KanbanTool2Application {
     
 	public static void main(String[] args) {
 		SpringApplication.run(KanbanTool2Application.class, args);
-		sjsjdamfgaemrgfyesgfuy
-		ambuj kis a good boy
-		pranil subham
+		
 		
 
 	}
